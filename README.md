@@ -8,7 +8,7 @@
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-scrolling-nav/)**
 
-## Status
+## Statu  s
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-scrolling-nav/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-scrolling-nav.svg)](https://www.npmjs.com/package/startbootstrap-scrolling-nav)
